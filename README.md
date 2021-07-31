@@ -1,0 +1,2 @@
+With this script, you'll be able to decide which McDonald's product gives you the most calories for your money. It does
+this by first checking the calorie values from www.mcdonalds.hu and then by getting the prices from www.netpincer.hu.
